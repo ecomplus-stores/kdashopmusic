@@ -1,23 +1,23 @@
 {
-  "store_id": 1258,
-  "name": "kdashopmusic",
-  "domain": "kdashopmusic.netlify.app",
-  "short_name": "kdashopmusic",
-  "description": "kdashopmusic",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "domain": "www.kdashopmusic.combr",
+  "currency_symbol": "R$",
+  "primary_color": "#212e30",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-kda-shopmusic-2-copia-300-x-300.jpg",
+  "name": "kdashopmusic",
+  "short_name": "kdashopmusic",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1258,
+  "description": "A KDA SHOPMUSIC é especializa na revenda de CDs, DVDs, Blu-Rays e Vinil, os nossos produtos são todos originais, novos ou usados, da mais alta qualidade e garantidos contra defeitos ou mal funcionamento.\n\nNós não revendemos produtos piratas ou de origem duvidosa!!!\n\nNós garantimos a troca ou o reembolso dos valores pagos, caso a sua compra não tenha sido exatamente o que estamos oferecendo no site!!\nNossos profissionais tem mais de 30 anos de experiência no ramo fonográfico e estão a disposição para auxiliá-los (as) no que for necessário.  \n\nBoas Compras !!!",
+  "large_icon": "/img/large-icon.png"
 }
