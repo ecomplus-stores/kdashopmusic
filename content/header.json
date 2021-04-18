@@ -1,12 +1,12 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "REVENDEMOS SOMENTE PRODUTOS ORIGINAIS, NOVOS E USADOS",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "A KDA SHOPMUSIC ENTREGA EM TODO O BRASIL ",
         "link": "/pages/sobre-nos"
       },
       {
@@ -20,7 +20,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
