@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
-    "show": true,
-    "text": "Parcele sem juros"
+    "show": false,
+    "text": ""
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Para trocas e reembolsos nós seguimos a Lei do Consumidor e também o bom senso!! Fique tranquilo (a) se você não comprou exatamente aquilo que estava que queria, entre em contato conosco através do WhatsApp, telefone ou e-mail."
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": false,
+    "text": ""
   }
 }
