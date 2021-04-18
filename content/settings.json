@@ -1,15 +1,15 @@
 {
   "domain": "www.kdashopmusic.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#212e30",
+  "primary_color": "#2b8197",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-kda-shopmusic-2-copia-300-x-300.jpg",
-  "name": "kdashopmusic",
-  "short_name": "kdashopmusic",
+  "logo": "/img/uploads/logo_kda_shopmusic_2_-_copia_300_x_300-removebg-preview-1-.png",
+  "name": "KDA SHOP MUSIC",
+  "short_name": "KDA SHOPMUSIC",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
