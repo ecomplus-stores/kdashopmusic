@@ -22,15 +22,21 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 16,
+      "page": 1,
+      "sort": "news",
+      "title": "ADICIONADOS RECENTEMENTE"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "title": "MAIS VENDIDOS",
+      "sort": "sales"
     },
     {
       "type": "page-title",
